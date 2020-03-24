@@ -1,0 +1,16 @@
+.shop-content{
+    margin: 30px 110px;
+}
+.check-btn{
+    text-align: center;
+}
+.check-btn button{
+    background-color:green;
+    padding: 20px;
+    margin-top: 20px;
+    margin-bottom: 100px;
+    width: 300px;
+    border-radius: 10px;
+    color: white;
+    font-weight: 700;
+}

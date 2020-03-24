@@ -1,0 +1,16 @@
+.cart-item{
+    display: flex;
+    background-color: lightgray;
+    border-radius: 20px;
+    padding: 20px;
+    margin-top: 20px;
+    width: 600px;
+
+}
+.cart-item img{
+    width: 200px;
+    padding: 0px 10px;
+}
+.itemName{
+    width: 200px;
+}

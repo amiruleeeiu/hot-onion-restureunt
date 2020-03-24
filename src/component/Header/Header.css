@@ -1,0 +1,13 @@
+.logo img{
+    width: 10%;
+    margin: 30px 200px;
+}
+
+.header-menu{
+    text-align: center;
+}
+.header-menu a{
+    text-decoration: none;
+    margin-right: 50px;
+    color: black;
+}

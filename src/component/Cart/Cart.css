@@ -1,0 +1,9 @@
+.cart-content{
+    float: right;
+    margin:10px 20px;
+    width: 600px;
+    
+}
+.cart-content h5{
+    margin-top: 10px;
+}

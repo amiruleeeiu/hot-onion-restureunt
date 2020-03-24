@@ -1,0 +1,21 @@
+.item-detail{
+    display: flex;
+    margin: 20px 300px;
+}
+.item-img img{
+    width: 150%;
+}
+
+.item-number input{
+    width: 30px;
+    height: 40px;
+}
+
+.add-btn{
+    padding: 10px;
+    background-color: crimson;
+    color: white;
+    width: 100px;
+    border-radius: 50px;
+    cursor: pointer;
+}

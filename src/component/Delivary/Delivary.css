@@ -1,0 +1,16 @@
+.delivary-content{
+    margin: 50px 200px;
+}
+.delivary-content img{
+    width: 50%;
+}
+.order{
+    background-color: rgb(226, 217, 217);
+    margin-left: 30px;
+    border-radius: 10px;
+    text-align: center;
+}
+.order img{
+    
+    margin: 20px 20px;
+}
